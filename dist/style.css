@@ -554,6 +554,11 @@ video {
   display: none;
 }
 
+.mx-20 {
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
 .mb-10 {
   margin-bottom: 2.5rem;
 }
@@ -628,6 +633,18 @@ video {
 
 .h-8 {
   height: 2rem;
+}
+
+.h-24 {
+  height: 6rem;
+}
+
+.h-52 {
+  height: 13rem;
+}
+
+.h-56 {
+  height: 14rem;
 }
 
 .w-10 {
